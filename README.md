@@ -202,6 +202,9 @@ CLOUDINARY_API_KEY= 000000000000000000000
 CLOUDINARY_API_SECRET= jjkhkjhfkgljhflgjhligyjhflkgjlgjkhkjljljkhlkjhgkhg
 SECRET=thisisasecret
 ```
+Ok so it's worth looking at the pinned piece in my big binder. It shows one possible problem , but not everything. 
+
+
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
